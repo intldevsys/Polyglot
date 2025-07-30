@@ -1,4 +1,4 @@
-<img width="1556" height="701" alt="image" src="https://github.com/user-attachments/assets/b0d573f7-ce8c-4073-a0fe-d733e5d786f0" />
+<img width="436" height="625" alt="Screenshot from 2025-07-30 16-05-57" src="https://github.com/user-attachments/assets/4f914f58-25fa-43ac-b7c7-4b8b827c730d" />
 
 
 # Polyglot
@@ -49,6 +49,7 @@ python desktop_translator.py
    - Uses perceptual hashing to detect changes
    - Only processes OCR/translation when content changes
 
+<img width="917" height="547" alt="Screenshot from 2025-07-30 16-24-08" src="https://github.com/user-attachments/assets/878270a9-c983-4fdc-948e-9a3b9bd2eecd" />
 
 ## Advanced Features
 
