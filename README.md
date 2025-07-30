@@ -1,4 +1,5 @@
-<img width="436" height="625" alt="Screenshot from 2025-07-30 16-05-57" src="https://github.com/user-attachments/assets/4f914f58-25fa-43ac-b7c7-4b8b827c730d" />
+<img width="1796" height="856" alt="image" src="https://github.com/user-attachments/assets/6db87f16-7484-4828-bf17-f1d69ccfec0e" />
+
 
 
 # Polyglot
