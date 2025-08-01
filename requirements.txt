@@ -1,0 +1,1 @@
+pyautogui pillow pytesseract pynput opencv-python numpy pywin32 requests customtkinter
