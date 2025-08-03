@@ -16,7 +16,7 @@ A powerful desktop application that provides real-time translation of on-screen 
 - ** Translation caching** for improved performance
 - **  Click-through overlays** that don't interfere with your workflow
 
-## 🚀 Translation Services
+## Translation Services
 
 ### Primary Services
 - ** Google Cloud Translation** - Premium accuracy with extensive language support
@@ -76,7 +76,7 @@ pip install googletrans==4.0.0-rc1
    }
    ```
 
-## 🔑 API Key Setup
+## API Key Setup
 
 ### DeepL API (Recommended)
 1. Visit [DeepL Pro API](https://www.deepl.com/pro-api)
@@ -99,7 +99,7 @@ pip install googletrans==4.0.0-rc1
    ```
 
 2. **Select a region**
-   - Click "🎯 Select Region to Translate" or press `Ctrl+Shift+T`
+   - Click "Select Region to Translate" or press `Ctrl+Shift+T`
    - Drag to select the area containing text you want to translate
 
 3. **View translations**
@@ -118,7 +118,7 @@ The application supports translation to:
 - Finnish, Norwegian, Czech, Hungarian, Romanian
 - And many more depending on the translation service
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Basic Settings
 ```python
@@ -136,15 +136,7 @@ CONFIG = {
 - **Overlay Styling**: Customize colors, fonts, and positioning
 - **Performance Tuning**: Adjust cache size and update intervals
 
-##  UI Features
-
-- **📱 Responsive Design** - Scrollable interface that adapts to any screen size
-- **🌙 Dark Theme** - Easy on the eyes with modern styling
-- **📊 Real-time Status** - Live monitoring and connection indicators
-- **🔧 Built-in Testing** - Test API connections directly from the interface
-- **📋 Usage Statistics** - Track API usage and limits
-
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -174,53 +166,19 @@ CONFIG = {
 3. Make your changes and test thoroughly
 4. Submit a pull request with a clear description
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Use Cases
 
-## Resources
+- **Language Learning** - Translate foreign language content in real-time
+- **International Business** - Understand foreign language documents and websites
+- ** Gaming** - Translate in-game text in foreign language games
+- **Research** - Read academic papers and documents in other languages
+- **Professional** - Handle multilingual customer support and documentation
 
-- **[DeepL](https://www.deepl.com/)** - For providing high-quality translation API
-- **[Google Cloud Translation](https://cloud.google.com/translate)** - For comprehensive language support
-- **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)** - For the modern UI framework
-- **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** - For optical character recognition
-- **[pytesseract](https://github.com/madmaze/pytesseract)** - For Python Tesseract integration
-
-## 📈 Roadmap
-
-- [ ] Linux and macOS support
-- [ ] Batch translation of multiple regions
-- [ ] Translation history and bookmarks
-- [ ] Custom overlay themes and styles
-- [ ] Offline translation models
-- [ ] Plugin system for additional translation services
-- [ ] OCR accuracy improvements
-- [ ] Mobile companion app
-
-## 💡 Use Cases
-
-- **📚 Language Learning** - Translate foreign language content in real-time
-- **🌍 International Business** - Understand foreign language documents and websites
-- **🎮 Gaming** - Translate in-game text in foreign language games
-- **📖 Research** - Read academic papers and documents in other languages
-- **💼 Professional** - Handle multilingual customer support and documentation
-
-## 🔒 Privacy
+## Privacy
 
 - All translations are processed through the selected APIs
 - No text data is stored permanently by the application
 - Local caching is used only for performance optimization
 - API keys are stored locally and never transmitted elsewhere
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/desktop-translator/issues) page
-2. Create a new issue with detailed information
-3. Include your system specs and error messages
-4. Provide steps to reproduce the problem
-
----
-
-**⭐ If you find this project helpful, please consider giving it a star!**
